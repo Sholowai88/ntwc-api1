@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ntwc-api1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c28c9873-eb0e-46d9-9079-0132da2810f2",
+			"database_name": "ntwc-api1"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
